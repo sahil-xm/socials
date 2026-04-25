@@ -12,7 +12,7 @@ body {
     /* BACKGROUND CONFIGURATION */
     background-color: 
     /* Replace 'your-pattern.png' with your image link */
-    background-image: <img src= "https://ibb.co/bjgsbwPw">
+    background-image: url('https://ibb.co/bjgsbwPw');
     background-repeat: repeat;
     background-attachment: fixed;
 }
